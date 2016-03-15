@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net46": {
+      "wrappedProject": "../../Entities/Entities.csproj",
+      "bin": {
+        "assembly": "../../Entities/obj/{configuration}/Entities.dll",
+        "pdb": "../../Entities/obj/{configuration}/Entities.pdb"
+      }
+    }
+  }
+}

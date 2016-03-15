@@ -1,0 +1,5 @@
+c:\users\m1032545\documents\visual studio 2015\Projects\EntityConverterDemo\Models\bin\Debug\Models.dll
+c:\users\m1032545\documents\visual studio 2015\Projects\EntityConverterDemo\Models\bin\Debug\Models.pdb
+c:\users\m1032545\documents\visual studio 2015\Projects\EntityConverterDemo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+c:\users\m1032545\documents\visual studio 2015\Projects\EntityConverterDemo\Models\obj\Debug\Models.dll
+c:\users\m1032545\documents\visual studio 2015\Projects\EntityConverterDemo\Models\obj\Debug\Models.pdb
